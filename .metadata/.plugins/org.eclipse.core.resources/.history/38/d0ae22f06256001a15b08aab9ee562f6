@@ -1,0 +1,13 @@
+package com.example.travis.api;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class TravisCiCdApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
